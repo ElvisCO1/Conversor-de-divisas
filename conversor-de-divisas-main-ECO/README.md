@@ -7,7 +7,7 @@
 <br/><br/>
 [![Imagen del conversor de divisas](https://github.com/CrisCorreaS/conversor-de-divisas/blob/main/img/visualizaci%C3%B3n/conversor-vista.png)](https://criscorreas.github.io/conversor-de-divisas/)
 
-Este conversor de divisas online ha sido creado por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**
+Este conversor de divisas online ha sido creado por **[Elvis Candia](https://www.linkedin.com/in/elvis-candia-ochoa-141881247/)**
 
 ## 👀 Vista Previa
 
