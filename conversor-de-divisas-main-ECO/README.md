@@ -14,7 +14,7 @@ Este conversor de divisas online ha sido creado por **[Elvis Candia](https://www
 ### ➡️ **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/conversor-de-divisas/)**
 
 #### Vista del conversor de divisas
-![Vista previa del conversor de divisas](https://github.com/CrisCorreaS/conversor-de-divisas/blob/main/img/visualizaci%C3%B3n/conversor-vista.png)
+![Vista previa del conversor de divisas](https://github.com/ElvisCO1/Conversor-de-divisas/blob/main/conversor-de-divisas-main-ECO/img/visualización/conversor-vista.png)
 
 ### Funcionalidades:
  1️⃣ **Validación del importe**:
@@ -25,12 +25,12 @@ Este conversor de divisas online ha sido creado por **[Elvis Candia](https://www
  2️⃣ **Conversión de divisas con información**:
   - Permite a los usuarios convertir euros, dólares estadounidenses, canadienses y australianos, libras y yenes. Además, da información sobre las equivalencias de las monedas en tiempo real.
     
- ![Vista previa de las funcionalidades del conversor](https://github.com/CrisCorreaS/conversor-de-divisas/blob/main/video/feature2.gif)
+ ![Vista previa de las funcionalidades del conversor](https://github.com/ElvisCO1/Conversor-de-divisas/blob/main/conversor-de-divisas-main-ECO/video/feature2.gif)
 
 3️⃣ **Conversión inversa instantánea**:
  - En un solo click, puedes hacer la conversión contraria sin ningún problema.
    
- ![Vista previa de las funcionalidades del conversor](https://github.com/CrisCorreaS/conversor-de-divisas/blob/main/video/feature3.gif)
+ ![Vista previa de las funcionalidades del conversor](https://github.com/ElvisCO1/Conversor-de-divisas/blob/main/conversor-de-divisas-main-ECO/video/feature3.gif)
 
 ## 🌱 Características
 
