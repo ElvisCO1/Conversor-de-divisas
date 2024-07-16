@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Conversor de Divisas</title>
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="author" href="https://www.linkedin.com/in/elvis-candia-ochoa-141881247/" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="img/favicon.png" />
+
+    <!-- Meta tags -->
+    <meta
+      name="keywords"
+      content="html,css,js,javascript,conversor de divisas, currency exchange, euro, yen, libra, dolar"
+    />
+    <meta
+      name="description"
+      content="Conversor de Divisas desarrollado con HTML, CSS y JavaScript"
+    />
+    <meta name="author" content="Elvis Candia" />
+    <meta name="generator" content="VSCode" />
+    <meta name="theme-color" content="#ccc" />
+
+    <meta name="google" content="nositelinkssearchbox" />
+    <meta name="google" content="notranslate" />
+    <meta name="robots" content="index, nofollow" />
+
+    <meta property="og:title" content="Conversor de Divisas" />
+    <meta
+      property="og:description"
+      content="Conversor de Divisas desarrollado con HTML, CSS y JavaScript"
+    />
+    <!-- Link a Font Awesome -->
+    <script
+      src="https://kit.fontawesome.com/a572cee94c.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <main>
+      <h1>Conversor de Divisas</h1>
+      <div id="data">
+        <form action="#">
+          <div id="texto">
+            <label for="importe">Importe</label>
+            <label for="from">De:</label>
+            <label for="to">A:</label>
+          </div>
+          <div id="valores">
+            <input
+              type="number"
+              name="importe"
+              id="importe"
+              min="0"
+              max="1000000"
+              placeholder="10.0"
+              required
+            />
+            <select name="from" id="from"></select>
+            <i class="fa-solid fa-right-left"></i>
+            <select name="to" id="to"></select>
+          </div>
+          <p id="errorMsg"></p>
+          <input type="submit" id="submit" value="Convertir" />
+          <p id="resultado"></p>
+          <p id="info"></p>
+        </form>
+      </div>
+    </main>
+    <footer class="attribution">
+      <small>
+        Icono de Flavicon diseñado por
+        <a
+          href="https://www.flaticon.es/iconos-gratis/cambio-de-divisas"
+          title="cambio de divisas iconos"
+          >Elastic1 - Flaticon</a
+        >
+      </small>
+    </footer>
+  </body>
+</html>
