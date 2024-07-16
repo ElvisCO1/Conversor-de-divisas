@@ -20,7 +20,7 @@ Este conversor de divisas online ha sido creado por **[Elvis Candia](https://www
  1️⃣ **Validación del importe**:
   - Valida que se haya introducido un importe antes de hacer la conversión. Si no es así aparece un mensaje de aviso de error.
     
- ![Vista previa de las funcionalidades del conversor](https://github.com/CrisCorreaS/conversor-de-divisas/blob/main/video/feature1.gif)
+ ![Vista previa de las funcionalidades del conversor](https://github.com/ElvisCO1/Conversor-de-divisas/blob/main/conversor-de-divisas-main-ECO/video/feature1.gif)
 
  2️⃣ **Conversión de divisas con información**:
   - Permite a los usuarios convertir euros, dólares estadounidenses, canadienses y australianos, libras y yenes. Además, da información sobre las equivalencias de las monedas en tiempo real.
